@@ -1,8 +1,8 @@
-## HELLO! I'M JINJEON, FRONTEND DEVELOPER.
+### HELLO! I'M JINJEON, FRONTEND DEVELOPER.
 
 STUDYING DEVELOPMENT FOR POSITIVE IMPACT
 
-### SKILLS
+#### SKILLS
 
 <p>
   <img src="https://img.shields.io/badge/GIT-EAEAEA.svg?logo=git&logoColor=F05033"/>
@@ -14,7 +14,7 @@ STUDYING DEVELOPMENT FOR POSITIVE IMPACT
   <img src="https://img.shields.io/badge/STYLED--COMPONENT-EAEAEA.svg?logo=styled-components&logoColor=DB7093"/>
 </p>
 
-### ABOUT ME
+#### ABOUT ME
 
 <p>
   <img src="https://img.shields.io/badge/BLOG-EAEAEA.svg?logo=github&logoColor=4E9986"/>
