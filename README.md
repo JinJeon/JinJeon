@@ -15,6 +15,6 @@
 #### ABOUT ME
 
 <p>
-  <img src="https://img.shields.io/badge/BLOG-EAEAEA.svg?logo=github&logoColor=4E9986"/>
-  <img src="https://img.shields.io/badge/RESUME-EAEAEA.svg?logo=notion&logoColor=FDB301"/>
+  <a href="https://jinjeon.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-EAEAEA.svg?logo=github&logoColor=4E9986"/></a>
+  <a href="https://jinjeonimum.notion.site/JinJeon-1dd980ad8afc4724ace777b23e749796" target="_blank"><img src="https://img.shields.io/badge/RESUME-EAEAEA.svg?logo=notion&logoColor=FDB301"/></a>
 </p>
